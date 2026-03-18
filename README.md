@@ -2,9 +2,6 @@
 
 ### I am a programmer born in 2001.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xg-debug&label=Profile views&color=0e75b6&style=flat" alt="xg-debug" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xg-debug" alt="xg-debug" /></a> </p>
 
 - 🌱 I'm currently learning **Golang，Python，Agent，LLM**
 

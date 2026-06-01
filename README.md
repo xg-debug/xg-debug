@@ -44,11 +44,6 @@
   <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
 </a>
 
-<!-- LangChain：可能不稳定，保留但不保证 -->
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/langchain" width="40" height="40"/>
-</a>
-
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/>
 </a>
